@@ -2,7 +2,7 @@
 <p align='center'>
 
 </p>
-<div size='20px'> I am Electrical & Electronics Engineering student at Istanbul University Cerrahpasa. I am currently working at İÜC IEEE UAV Team. I am sharing my knowledge on my <strong><a href="https://www.youtube.com/channel/UCZHGq6hKIHVqkTbQb7BLp-A"> Youtube Channel.</a></strong> 
+<div size='20px'> I am an Electrical & Electronics Engineering student at Istanbul University Cerrahpasa. I am currently working at İÜC IEEE UAV Team. I am sharing my knowledge on my <strong><a href="https://www.youtube.com/channel/UCZHGq6hKIHVqkTbQb7BLp-A"> Youtube Channel.</a></strong> 
 </div>
 <br />
 
