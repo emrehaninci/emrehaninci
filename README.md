@@ -23,7 +23,7 @@
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/emrehaninci'> <img width = '96px' align= 'center' src="https://raw.githubusercontent.com/emrehaninci/emrehaninci/main/img/linkedin.svg?token=ALHCNKEEGLNX2URFXSFEDKTAVVL42"/></a> <a href = 'https://www.instagram.com/emrehan_inci/'> <img width = '109px' align= 'center' src="https://raw.githubusercontent.com/emrehaninci/emrehaninci/main/img/instagram.svg?token=ALHCNKBQIDMWYRLGW6H7GF3AVVMAA"/></a> <a href = 'https://www.emrehaninci.com/'> <img width = '90px' align= 'center' src="https://raw.githubusercontent.com/emrehaninci/emrehaninci/main/img/website.svg?token=ALHCNKDMD23VLQKW6A6IEB3AVVMGE"/></a> 
+<a href = 'https://www.linkedin.com/in/emrehaninci'> <img width = '96px' align= 'center' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href = 'https://www.instagram.com/emrehan_inci/'> <img width = '100px' align= 'center' src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href = 'https://www.emrehaninci.com/'> <img width = '85px' align= 'center' src="https://raw.githubusercontent.com/emrehaninci/emrehaninci/main/img/website.svg"/></a> 
 
 
 <br />
