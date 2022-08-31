@@ -2,7 +2,7 @@
 <p align='center'>
 
 </p>
-<div size='20px'> I am an Electrical & Electronics Engineering student at Istanbul University Cerrahpasa. I am currently working at İÜC IEEE UAV Team. I am sharing my knowledge on my <strong><a href="https://www.youtube.com/channel/UCZHGq6hKIHVqkTbQb7BLp-A"> Youtube Channel.</a></strong> 
+<div size='20px'> I graduated from Istanbul University Cerrahpasa with a degree in Electrical & Electronics Engineering. I am sharing my knowledge on my <strong><a href="https://www.youtube.com/channel/UCZHGq6hKIHVqkTbQb7BLp-A"> Youtube Channel.</a></strong> 
 </div>
 <br />
 
@@ -14,8 +14,7 @@
 <ul>
 <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   
-<li>🔭 I’m currently working on <a href="https://www.ieeeiuc.com/">IUC IEEE UAV Team</a>.</li>
-<li>🧐 Learning about <strong>Python</strong>, <strong>ROS</strong>, and a bit of <strong>ML</strong>.</li>
+<li>🔭 I worked as a Software Team Lead in <a href="https://www.instagram.com/atlasuavteam/">ATLAS UAV Team</a>.</li>
 <li>👨‍💻 I am trying to share my projects on <a href="https://github.com/emrehaninci">Github</a>.</li>
 <li>📹 Check out my <a href="https://www.youtube.com/channel/UCZHGq6hKIHVqkTbQb7BLp-A">Youtube Channel</a>.</li>
 <li>🌐 Check out my <a href="https://www.emrehaninci.com/">website</a>.</li>
@@ -36,11 +35,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="Git" width="32" height="32" />
 <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/qt.svg" alt="QT" width="32" height="32" />
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=emrehaninci&show_icons=true&count_private=true&theme=vue-dark " alt="emrehaninci" />
-
-  
-  
-
-
 
